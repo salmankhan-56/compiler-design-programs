@@ -1,2 +1,0 @@
-print("Welcome to compiler-design-programs")
-print("This is the main program file.")
